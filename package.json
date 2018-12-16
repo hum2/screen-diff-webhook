@@ -1,0 +1,17 @@
+{
+  "name": "screen-diff-webhook",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Shuhei Suzuki <hum2.dmg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "csv": "^4.0.0",
+    "csv-writer": "^1.2.0",
+    "imagemin": "^6.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "log4js": "^3.0.6",
+    "puppeteer": "^1.10.0",
+    "resemblejs": "^2.10.3"
+  }
+}
