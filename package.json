@@ -10,7 +10,7 @@
     "csv-writer": "^1.2.0",
     "imagemin": "^6.0.0",
     "imagemin-pngquant": "^6.0.0",
-    "log4js": "^3.0.6",
+    "log4js": "^6.4.0",
     "puppeteer": "^1.10.0",
     "resemblejs": "^2.10.3"
   }
